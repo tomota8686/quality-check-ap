@@ -1,0 +1,10 @@
+構成メモ
+
+・SQL操作のクラスを作成
+→引数に「HINBAN」「DataGridView」「Disp_Num(表示件数)」
+
+	・SQL操作をするメソッドを以下のように用意
+
+		・サーバーからNo.1からNo.nまでのデータ内容を読み取り、DataGridViewに表示するメソッド
+		・データを登録するメソッド
+		・その他ボタンが押下されたときにForm2にDataGridViewの表示

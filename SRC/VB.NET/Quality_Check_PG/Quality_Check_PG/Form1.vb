@@ -33,7 +33,7 @@ Public Class Form1
         'AcroPDF.LoadFile("C:\Users\Iwakoshi\Desktop\Quality_Check\DATA\9784798012940.pdf")
 
         'SYSTEM.INIの存在するフォルダ
-        Dim strPath As String = "C:\Users\Iwakoshi\Desktop\Quality_Check\SRC\VB.NET\Quality_Check_PG\Quality_Check_PG" & "\INI\SYSTEM.INI"
+        Dim strPath As String = "C:\Dev\Quality_Check" & "\INI\SYSTEM.INI"
 
         '<System.IO.FileNotFoundExceptionでも記述できる>
         'SYSTEM.INIが見つからない場合

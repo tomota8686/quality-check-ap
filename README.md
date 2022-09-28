@@ -3,14 +3,14 @@
 
 品質チェックシステム
 
-# Requirement
+## Requirement
 
 * Visual Studio 2019
 * Visual Basic .NET
 * .NET Framework 4.7.2
 * SQL Server 15.0.2095
 
-# Usage
+## Usage
 
 ハンドスキャナで読み取る、もしくは品番を手入力検索し、品番に該当するPDFを表示する。
 

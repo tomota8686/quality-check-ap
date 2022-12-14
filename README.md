@@ -1,5 +1,5 @@
 
-# quality_check_ap
+# quality_check_app
 
 品質チェックシステム
 
